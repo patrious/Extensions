@@ -1,3 +1,10 @@
+Artifacts
+bin
+obj
+packages
+*.suo
+
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
